@@ -1,0 +1,21 @@
+.section1 {
+  width: 100%;
+  height: 500px;
+  background-image: url(https://s3-alpha-sig.figma.com/img/86fe/255f/e03f2da3b25937c8cb1c2a74028eb3ad?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pn~z3YThs1wl5Y0Wfhk~03bT84deIkKZy~~ViNb8p7GILtPJxnwJ3nbUUL65ldgiivaH30h7trtS2bEDOwae8yvul9GAZ-YMWeTW7EMM~Ei84BmvK2UWqeqftqZm0PMWPqpVA1lGNVhbxGvyrhY1iEYltm7p5t9OfBln-ZTisd6695e97gCmaWRLMnVwUO5fQ3CYvWKElSl3uRAL2laEn7uDtpQqVEruZXj8KgVYJyjMAWXe~4EXdGHynypWnZdDh958Cdy4LaHzdezNt~HSDZKrSe6S-PqvEwvXFK1EjV-My8TTX0KLEncR6UDPFA5N1mDHXqqrj2ecqQoQMWxfog__);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.section1text {
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: center;
+  color: aliceblue;
+  position: relative;
+  top: 90px;
+}
+.section1photo {
+  width: 200px;
+  height: 300px;
+}

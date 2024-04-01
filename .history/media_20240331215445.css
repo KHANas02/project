@@ -1,0 +1,38 @@
+@media screen and (min-width: 425px) and (max-width: 767px) {
+  img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .img {
+    width: 60%;
+    height: auto;
+  }
+  .footer {
+    width: 50px;
+    height: 70px;
+
+    background-image: url(Header\ ⏵\ Heading\ 4\ ⏵\ Need\ support_\ We\'re\ here\ to\ help..png) ;
+
+    background-image: url(link3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+  }
+  .link2{
+     width: 50px;
+    height: 70px;
+     background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    background-image: url(Link.png);
+  }
+  .link3{
+         width: 50px;
+    height: 70px;
+     background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    background-image: url(Link2.png);
+  }
+}
